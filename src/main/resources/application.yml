@@ -1,0 +1,11 @@
+server:
+  port: 8089
+spring:
+  datasource:
+    druid:
+      url: jdbc:mysql://121.36.157.74:3306/myBase
+      username: root
+      password: 123456
+      driver-class-name: com.mysql.cj.jdbc.Driver
+
+
